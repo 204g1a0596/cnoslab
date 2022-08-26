@@ -9,6 +9,6 @@ source code
 include<stdio.h>
 int main()
 {
-  print("Hello world")
-    retuen 0;
+  print("Hello world");
+  retuen 0;
 }
