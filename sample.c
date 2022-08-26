@@ -6,7 +6,7 @@ Name : Syed Sidra Farhath
 //
 source code
 
-include<stdio.h>
+#include<stdio.h>
 int main()
 {
   print("Hello world");
